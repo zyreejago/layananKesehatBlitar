@@ -55,10 +55,10 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="flex items-center gap-3">
             <Stethoscope className="w-8 h-8" />
-            <h1 className="text-2xl font-bold">Layanan Kesehatan Darurat</h1>
+            <h1 className="text-2xl font-bold">SehatDekat</h1>
           </div>
           <p className="mt-2 text-emerald-100">
-            Temukan fasilitas kesehatan terdekat di kabupaten Anda
+          Temukan fasilitas kesehatan terdekat di Kabupaten Blitar dengan mudah
           </p>
         </div>
       </header>
